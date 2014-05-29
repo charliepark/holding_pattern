@@ -41,6 +41,7 @@ For now, though:
         - display a notice to the user:
           - "A record you entered while offline seems to exist on the database. What would you like to do?
             |   On Server   |     Local     |
+            | ------------- | ------------- |
             |   - details   |   - details   |
             |   - details   |   - details   |
             |   - details   |   - details   |
